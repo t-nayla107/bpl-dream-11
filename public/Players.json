@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Rohit Sharma",
+      "country": "India",
+      "image": "/src/assets/images/what-is-the-full-name-of-rohit-sharma_b3b2e113d.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak",
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 2,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "/src/assets/images/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+      "role": "Batsman",
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm legbreak",
+      "biddingPrice": 825700
+    },
+    {
+      "playerId": 3,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "/src/assets/images/196-camedia.png",
+      "role": "All-Rounder",
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Right-arm fast-medium",
+      "biddingPrice": 1600000
+    },
+    {
+      "playerId": 4,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "/src/assets/images/kane.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak",
+      "biddingPrice": 680000
+    },
+    {
+      "playerId": 5,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "/src/assets/images/rashid.png",
+      "role": "Bowler",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm legbreak googly",
+      "biddingPrice": 1000000
+    },
+    {
+      "playerId": 6,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "/src/assets/images/jasprit.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast",
+      "biddingPrice": 1150000
+    },
+    {
+      "playerId": 7,
+      "name": "MS Dhoni",
+      "country": "India",
+      "image": "/src/assets/images/dhoni.jpg",
+      "role": "Wicket-Keeper",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm medium",
+      "biddingPrice": 1500000
+    },
+    {
+      "playerId": 8,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "/src/assets/images/russell.jpeg",
+      "role": "All-Rounder",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast",
+      "biddingPrice": 920000
+    },
+    {
+      "playerId": 9,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "/src/assets/images/sakib.jpg",
+      "role": "All-Rounder",
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "Left-arm orthodox",
+      "biddingPrice": 780000
+    },
+    {
+      "playerId": 10,
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "image": "/src/assets/images/kock.jpg",
+      "role": "Wicket-Keeper",
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "None",
+      "biddingPrice": 1200000
+    },
+    {
+      "playerId": 11,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "/src/assets/images/azam.jpg",
+      "role": "Batsman",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak",
+      "biddingPrice": 950000
+    },
+    {
+      "playerId": 12,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "/src/assets/images/maxwell.jpg",
+      "role": "All-Rounder",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm offbreak",
+      "biddingPrice": 1100000
+    },
+    {
+      "playerId": 13,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "/src/assets/images/trent.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Left-arm fast-medium",
+      "biddingPrice": 800000
+    },
+    {
+      "playerId": 14,
+      "name": "Mohammed Shami",
+      "country": "India",
+      "image": "/src/assets/images/shami.jpg",
+      "role": "Bowler",
+      "battingStyle": "Right-hand bat",
+      "bowlingStyle": "Right-arm fast-medium",
+      "biddingPrice": 659000
+    },
+    {
+      "playerId": 15,
+      "name": "Nicholas Pooran",
+      "country": "West Indies",
+      "image": "/src/assets/images/pooran.jpg",
+      "role": "Wicket-Keeper",
+      "battingStyle": "Left-hand bat",
+      "bowlingStyle": "None",
+      "biddingPrice": 1075000
+    }
+  ]
+  
